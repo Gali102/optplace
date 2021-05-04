@@ -1,0 +1,51 @@
+.border-block{
+    border:1px solid gray;
+}
+table tr td{
+	border-color:#ff0000;
+}
+.border-tab-content{
+    border-left:1px solid #ccc;
+	border-right:1px solid #ccc;
+	border-bottom:1px solid #ccc;
+}
+
+.no-margin{
+	margin:0px;
+}
+.padding-min{
+	padding:5px;
+}
+.no-margin-tab{
+	margin-bottom:0px;
+}
+
+.tab-padding{
+	padding:15px;
+}
+
+.border-tab{
+	border-bottom:1px solid ccc;
+}
+
+.span-border{
+	border:1px solid #ccc;
+}
+.div-margin-top{
+	margin-top:20px;
+}
+
+.btn-position-down{
+	position:absolute; 
+	bottom: 0; 
+	margin-bottom:10px;
+}
+
+.thead-color{
+	background:#333;
+	color:#DDD;
+}
+
+.form-height{
+	height:15px;
+}
